@@ -1,0 +1,36 @@
+.blue{
+    border: 0 solid rgb(101, 115, 101);
+    height: 600px;
+    width: 30%;
+    position: relative;
+    text-align: center;
+    text-wrap: balance;
+    background-color: rgb(227, 234, 232);
+}
+
+.img2{
+    width: 100%;
+}
+.img4{
+    height: 16px;
+}
+.Red{
+    text-align: center;
+    line-height: 35px;
+    margin: auto;
+}
+body{
+    display: flex;
+}
+.a21{
+    border: 1px solid gray;
+    border-radius: 5px;
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+    color: rgb(88, 72, 232);
+}
+.img6{
+   padding-right: 275px;
+}
